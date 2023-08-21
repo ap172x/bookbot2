@@ -1,2 +1,2 @@
 # bookbot2
-Redo of boot.dev project
+Redo of my first boot.dev project
